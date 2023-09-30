@@ -2,7 +2,7 @@
 
 **Experienced full-stack software developer with skills in cloud tech, DevOps tools and Azure Administrator certified**
 
-**Languages: ![Python](https://img.shields.io/badge/-Python-green) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![C#](https://img.shields.io/badge/-C%23-blue) ![TypeScript (https://img.shields.io/badge/-TypeScript-blue) ![PHP](https://img.shields.io/badge/-PHP-purple) ![Java](https://img.shields.io/badge/-Java-orange) ![Go](https://img.shields.io/badge/-Go-blue) ![Shell](https://img.shields.io/badge/-Shell-brown)**
+**Languages: ![Python](https://img.shields.io/badge/-Python-green) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![C#](https://img.shields.io/badge/-C%23-blue) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue) ![PHP](https://img.shields.io/badge/-PHP-purple) ![Java](https://img.shields.io/badge/-Java-orange) ![Go](https://img.shields.io/badge/-Go-blue) ![Shell](https://img.shields.io/badge/-Shell-brown)**
 
 **Front-End : ![React](https://img.shields.io/badge/-React-blue) ![Angular](https://img.shields.io/badge/-Angular-red) ![jQuery](https://img.shields.io/badge/-jQuery-blue) ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-orange)**
 
