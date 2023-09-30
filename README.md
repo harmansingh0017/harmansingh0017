@@ -1,6 +1,6 @@
 **# Hi, I'm Harmanpreet!**
 
-**Experienced full-stack software developer with expertise in cloud technologies, DevOps, and Microsoft Azure certification, using Python, JavaScript, and C#, and working with AWS, Azure, and GCP.**
+**Experienced full-stack software developer with cloud tech, DevOps tools, Azure certification, and skills in Python, Go, and C#, working across AWS, Azure, and GCP.**
 
 **## Skills**
 
