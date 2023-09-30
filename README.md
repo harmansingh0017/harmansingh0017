@@ -1,10 +1,10 @@
 **# Hi, I'm Harmanpreet!**
 
-****Experienced Software Developer | Cloud & DevOps | Microsoft Azure Certified | Full-stack | Python, JavaScript, C# | AWS, Azure, GCP****
+**Experienced Software Developer | Cloud & DevOps | Microsoft Azure Certified | Full-stack | Python, JavaScript, C# | AWS, Azure, GCP**
 
-## Skills
+**## Skills**
 
-### Front-End : ![React](https://img.shields.io/badge/-React-blue) ![Angular](https://img.shields.io/badge/-Angular-red) ![jQuery](https://img.shields.io/badge/-jQuery-blue) ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-orange)
+**### Front-End : ![React](https://img.shields.io/badge/-React-blue) ![Angular](https://img.shields.io/badge/-Angular-red) ![jQuery](https://img.shields.io/badge/-jQuery-blue) ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-orange)**
 
 ### Back-End : ![Node.js](https://img.shields.io/badge/-Node.js-green) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-blue) ![Laravel](https://img.shields.io/badge/-Laravel-red) ![Django](https://img.shields.io/badge/-Django-green) ![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-orange)
 
