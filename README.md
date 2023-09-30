@@ -1,4 +1,4 @@
-# Harmanpreet Singh
+# Hi, I'm Harmanpreet!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/harmanpreet-sing/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-000)](https://github.com/sing0017)
