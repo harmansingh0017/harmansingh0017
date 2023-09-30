@@ -5,13 +5,7 @@
 
 ## About Me
 
-Experienced Software Developer with expertise in:
-
-- Full-Stack Web Development
-- Cloud Technologies
-- DevOps practices
-
-Microsoft Certified Azure Administrator.
+Experienced Software Developer | Cloud & DevOps Enthusiast | Microsoft Certified Azure Administrator | Full-stack Web Dev | Python, JavaScript, C# | AWS, Azure, GCP | Agile Collaborator
 
 ## Skills
 
