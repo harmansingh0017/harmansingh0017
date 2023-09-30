@@ -11,7 +11,7 @@ Experienced Software Developer with expertise in:
 - Cloud Technologies
 - DevOps practices
 
-Microsoft Certified Azure Administrator. Agile enthusiast and continuous improvement advocate.
+Microsoft Certified Azure Administrator.
 
 ## Skills
 
