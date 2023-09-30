@@ -1,4 +1,4 @@
-** Hi, I'm Harmanpreet!**
+**Hi, I'm Harmanpreet!**
 
 **Experienced full-stack software developer with skills in cloud tech, DevOps tools and Azure Administrator certified**
 
