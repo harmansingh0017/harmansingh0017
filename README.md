@@ -1,8 +1,6 @@
 # Hi, I'm Harmanpreet!
 
-## About Me
-
-Experienced Software Developer | Cloud & DevOps Enthusiast | Microsoft Certified Azure Administrator | Full-stack Web Dev | Python, JavaScript, C# | AWS, Azure, GCP | Agile Collaborator
+Experienced Software Developer | Cloud & DevOps | Microsoft Certified Azure Admin | Full-stack | Python, JavaScript, C# | AWS, Azure, GCP
 
 ## Skills
 
@@ -15,5 +13,3 @@ Experienced Software Developer | Cloud & DevOps Enthusiast | Microsoft Certified
 ### Cloud Platforms : ![AWS](https://img.shields.io/badge/-AWS-yellow) ![Azure](https://img.shields.io/badge/-Azure-blue) ![GCP](https://img.shields.io/badge/-GCP-blue)
 
 ### DevOps Tools : ![Jenkins](https://img.shields.io/badge/-Jenkins-red) ![Ansible](https://img.shields.io/badge/-Ansible-blue) ![Terraform](https://img.shields.io/badge/-Terraform-purple) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue) ![Docker](https://img.shields.io/badge/-Docker-blue) ![Helm](https://img.shields.io/badge/-Helm-green) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange) ![Redhat](https://img.shields.io/badge/-Redhat-red) ![Git](https://img.shields.io/badge/-Git-brown)
-
-Feel free to reach out for collaboration or inquiries.
