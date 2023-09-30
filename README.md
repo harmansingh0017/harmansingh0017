@@ -1,8 +1,5 @@
 # Hi, I'm Harmanpreet!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/harmanpreet-sing/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-000)](https://github.com/sing0017)
-
 ## About Me
 
 Experienced Software Developer | Cloud & DevOps Enthusiast | Microsoft Certified Azure Administrator | Full-stack Web Dev | Python, JavaScript, C# | AWS, Azure, GCP | Agile Collaborator
