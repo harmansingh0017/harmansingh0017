@@ -15,12 +15,7 @@ Microsoft Certified Azure Administrator.
 
 ## Skills
 
-### Front-End
-
-![React](https://img.shields.io/badge/-React-blue)
-![Angular](https://img.shields.io/badge/-Angular-red)
-![jQuery](https://img.shields.io/badge/-jQuery-blue)
-![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-orange)
+### Front-End : ![React](https://img.shields.io/badge/-React-blue) ![Angular](https://img.shields.io/badge/-Angular-red) ![jQuery](https://img.shields.io/badge/-jQuery-blue) ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-orange)
 
 ### Back-End
 
